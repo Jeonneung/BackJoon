@@ -1,2 +1,2 @@
-# BackJoon
+# BaeckJoon
 Auto uploads for BackJoon solves.
